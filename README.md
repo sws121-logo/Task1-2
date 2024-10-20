@@ -1,4 +1,4 @@
-Here's a structured `README.md` focused on the code explanation, project purpose, results, and deployment:
+
 
 ```markdown
 # FastAPI Project
