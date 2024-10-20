@@ -136,4 +136,4 @@ Visit `http://127.0.0.1:8000/docs` for the interactive API documentation.
 This project provides a robust framework for processing web content and facilitating chat interactions through a clean and efficient API built with FastAPI. Feel free to extend its functionality or integrate it into larger applications.
 ```
 
-Feel free to modify any sections to better fit your project's specifics!
+
